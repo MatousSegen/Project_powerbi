@@ -1,6 +1,6 @@
 # Analýza mezd a cen v ČR (Power BI)
 
-Interaktivní report zaměřený na vývoj kupní síly v různých odvětvích a v čase.
+Tento report je závěrečným projektem v Engeto datové akademii. Je zaměřený na vývoj kupní síly v různých odvětvích a v čase.
 
 ## Obsah reportu
 * **Vizualizace:** Propojení dat o mzdách a cenách potravin.
